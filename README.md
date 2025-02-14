@@ -36,7 +36,7 @@ The outcome of this pilot will play a key role in determining the possibility of
 
 
 
-![Screenshot 2025-02-13 135039](https://github.com/user-attachments/assets/b280baef-af2f-4e2e-985e-91a148e976f4)
+![data model](https://github.com/user-attachments/assets/b280baef-af2f-4e2e-985e-91a148e976f4)
 
 
 
@@ -53,20 +53,24 @@ I created a dashboard with three key sections:
 
 **General Analysis -** Provides a high-level summary of revenue and customer distribution with monthly trends to monitor overall growth.
 
-![General Analysis](https://github.com/user-attachments/assets/e7ed8330-e2f8-4b7d-83df-12d88e0edb2e)
+
+![general analysis](https://github.com/user-attachments/assets/98698b2d-3a20-4808-bc08-d4eef427cc38)
+
 
 
 
 **Sales Mode Analysis -** Offers insights into revenue and customer data across different sales modes to assess their performance.
 
 
-![sales mode analysis](https://github.com/user-attachments/assets/04575041-dfaa-4a66-961b-696c240cb9fb)
+![sales mode analysis](https://github.com/user-attachments/assets/c498fe91-b962-4df1-9915-1d2c24ffdaa6)
+
 
 
 
 **Age Group Analysis -** Analyzes policy sales and revenue by age group to highlight the most valuable customer segments.
 
-![age group analysis](https://github.com/user-attachments/assets/68b72b1a-440b-48a0-840c-68b8b83a4bc6)
+![age group analysis](https://github.com/user-attachments/assets/b58d6bc8-bcfd-4e28-8f11-974412421ad1)
+
 
 
 
