@@ -36,7 +36,8 @@ The outcome of this pilot will play a key role in determining the possibility of
 
 
 
-![Shiled Insurance Data Model](https://github.com/user-attachments/assets/ae0f80c5-22b9-405f-974a-d225194b7b7a)
+![Screenshot 2025-02-13 135039](https://github.com/user-attachments/assets/b280baef-af2f-4e2e-985e-91a148e976f4)
+
 
 
 
@@ -46,7 +47,7 @@ I created a dashboard with three key sections:
 
 **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
-![home page](https://github.com/user-attachments/assets/4c86e911-c87f-41b4-aea9-d9e95c662d8f)
+![home page](https://github.com/user-attachments/assets/90bd40c5-9f94-483e-83bc-a2611bf1bd51)
 
 
 
