@@ -8,11 +8,13 @@ This project is a part of the virtual Internship at AtliQ Technologies.
 
 ## Project Overview-
 
-Shield Insurance, an insurance provider, operates across five major cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
-
-They utilize various sales channels to reach their customers, including Offline Agent, Offline Direct, Online App, and Online Websites. The company offers a total of nine different policies. 
+Shield Insurance provides affordable policies for all age groups and operates in cities like Mumbai, Chennai, Delhi, Hyderabad, and Indore. They sell policies through multiple channels: offline agents, direct sales, a mobile app, and a website. The company offers a total of nine different policies. 
 
 My task was to assist Shield Insurance in making data-driven decisions by analyzing their data from November 2022 to April 2023.
+
+## Problem Statement-
+
+Shield Insurance aimed to enhance its decision-making process using data insights. They wanted a pilot project to evaluate our capabilities before engaging in a larger collaboration. 
 
 ## Data Sets and Data Model - 
 
@@ -31,7 +33,10 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 ![Shiled Insurance Data Model](https://github.com/user-attachments/assets/ae0f80c5-22b9-405f-974a-d225194b7b7a)
 
 
+
 ## Dashboard Overview - 
+
+I created a dashboard with three key sections:
 
 ### **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
@@ -39,60 +44,59 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 
 
-### **General Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
+### **General Analysis -** Provides a high-level summary of revenue and customer distribution with monthly trends to monitor overall growth.
 
 ![General Analysis](https://github.com/user-attachments/assets/e7ed8330-e2f8-4b7d-83df-12d88e0edb2e)
 
 
 
-### **Sales Mode Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
+### **Sales Mode Analysis -** Offers insights into revenue and customer data across different sales modes to assess their performance.
 
 
 ![sales mode analysis](https://github.com/user-attachments/assets/04575041-dfaa-4a66-961b-696c240cb9fb)
 
 
 
-### **Age Group Analysis -** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
-
+### **Age Group Analysis -** Analyzes policy sales and revenue by age group to highlight the most valuable customer segments.
 
 ![age group analysis](https://github.com/user-attachments/assets/68b72b1a-440b-48a0-840c-68b8b83a4bc6)
 
 
 
-## Insights & Recommendations-
+## Insights -
 
-### Age Group Analysis:
+### **Revenue and Customer Trends:** March 2023 recorded the highest revenue and customers, while November 2022 saw the lowest daily revenue and customer growth.
 
-Maximum Revenue: The 31-40 age group generates the highest revenue.
+### **Regional Revenue:** 
+Delhi NCR region led with the highest revenue, whereas Indore contributed the least in both revenue and customer base.
 
-**Recommendations:**
+### **Top Age Group:** The 31-40 age group generated the highest revenue and had the largest number of customers.
 
-* Focus marketing efforts on the 31-40 age group.
-* Tailor policies to attract the 41-50 and 65+ age groups, considering their specific preferences.
+### **Lower-Contributing Age Groups:** Customers aged 18-24 and 25-30 contributed the least, representing just 8.67% of total revenue.
 
-### Sales Mode Analysis:
+### **Sales Channel Performance:** Offline agent channels performed best, generating 55.67% of the revenue and serving 55.41% of customers.
 
-**Maximum Revenue:** Offline agents generate the most revenue.
-**Growth Observation:** Online app and website sales have grown since February 2023.
+### **Top Policy:** Policy ID - POL2005HEL generated the highest revenue despite being held by only 7.33% of customers.
 
-**Recommendations:**
+### **Lower-Revenue Policies:** Policy IDs - POL4321HEL and POL4331HEL collectively contributed just 5.96% of the revenue while covering 30.43% of customers.
 
-* Improve customer support and features on the online app and website.
-* Implement a system where customers receive policy suggestions based on the details they provide to boost online platform popularity.
+### **Claims Settlement:** Customers aged 31-40 had the highest settlement amounts, whereas those aged 18-24 and 25-30 had the lowest settlement needs.
 
-### City Analysis:
-
-Revenue and Customer Base: Delhi NCR leads in revenue and customer base, followed by Mumbai and Hyderabad.
-
-**Recommendations:**
-
-* Apply successful strategies from Delhi NCR, Mumbai, and Hyderabad to other cities to increase overall revenue.
+![image](https://github.com/user-attachments/assets/bf01a3d9-8a18-492a-af77-ae7f609063af)
 
 
-### Policy Analysis:
+## Recommendations -
 
-Top Policy: The POL2005HEL policy generates the highest revenue.
+### **Boost Indore’s Growth:** Analyze local challenges and implement targeted marketing strategies to increase revenue and customer growth in Indore. Consider personalized offers and campaigns that appeal to the regional audience.
 
-**Recommendations:**
-* Develop variations of the POL2005HEL policy to attract a wider customer base.
-* Offer different rider options to enhance the appeal of the policy.
+### **Maximize Delhi NCR’s Potential:** Since Delhi NCR is the highest revenue-generating region, focus on offering tailored insurance plans for different age groups to maintain and expand the customer base.
+
+### **Engage Younger Customers:** Investigate why customers aged 18-30 show less interest in purchasing policies. Develop affordable and customized plans that meet their needs and financial situations to attract this age group.
+
+### **Expand Online Sales Channels:** Improve the website experience and invest in digital marketing campaigns to reach a wider audience. With most revenue coming from offline agents, there’s an opportunity to grow online sales significantly.
+
+### **Promote High-Performing Policies:** Focus on promoting high-revenue policies like POL2005HEL. Highlight their benefits through targeted campaigns to attract new customers and boost overall revenue.
+
+### **Target Top-Selling Cities with Localized Strategies:** Develop customized marketing campaigns for high-performing cities such as Delhi NCR, Mumbai, Bangalore, and Chennai. Focus on region-specific customer preferences and needs to create personalized offers, ensuring maximum engagement and improved sales in these key markets.
+
+![image](https://github.com/user-attachments/assets/2358e9f3-38d4-4511-afde-1ec731ca63c2)
