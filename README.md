@@ -14,7 +14,13 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 ## Problem Statement-
 
-Shield Insurance aimed to enhance its decision-making process using data insights. They wanted a pilot project to evaluate our capabilities before engaging in a larger collaboration. 
+Shield Insurance aims to enhance its data-driven decisions by implementing a dashboard that delivers clear and actionable insights.
+To explore a partnership with AtliQ Technologies, they have proposed a pilot project to assess our capabilities.
+
+This project will help them evaluate how effectively we can meet their requirements before moving forward with a full-scale implementation.
+The outcome of this pilot will play a key role in determining the possibility of a larger, long-term collaboration.
+
+
 
 ## Data Sets and Data Model - 
 
