@@ -2,8 +2,9 @@
 
 This project is a part of the virtual Internship at AtliQ Technologies.
 
-**Dashboard Link -**  [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQyZWIzNDQtMTU5NS00ZGY4LThkOGUtZmQwN2ExOTViMzczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c409461be7270ac41e63&pageName=c409461be7270ac41e63)
-**Presentation Link -**  [Video Presentation](https://www.linkedin.com/posts/mayurpawar8301_codebasicsvirtualinternship-dataanalytics-activity-7296037962998292480-x9KC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4PqA8B7UiFw46YycR_R0SeCoycTUQtMko)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjQyZWIzNDQtMTU5NS00ZGY4LThkOGUtZmQwN2ExOTViMzczIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c409461be7270ac41e63&pageName=c409461be7270ac41e63)
+
+[Video Presentation](https://www.linkedin.com/posts/mayurpawar8301_codebasicsvirtualinternship-dataanalytics-activity-7296037962998292480-x9KC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE4PqA8B7UiFw46YycR_R0SeCoycTUQtMko)
 
 ## Project Overview-
 
